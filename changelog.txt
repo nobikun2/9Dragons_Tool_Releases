@@ -1,0 +1,5 @@
+Cập nhật tính năng Auto Update.
+
+Sửa lỗi giao diện Npc Editor.
+
+Tối ưu hóa tốc độ load dữ liệu.
