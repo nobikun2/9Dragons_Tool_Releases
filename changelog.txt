@@ -1,5 +1,3 @@
-Cập nhật tính năng Auto Update.
+Sữa lỗi Item Editor khôgn đọc được các type khác.
 
-Sửa lỗi giao diện Npc Editor.
-
-Tối ưu hóa tốc độ load dữ liệu.
+Sữa lỗi Cash Package không hiển thị Icon.
