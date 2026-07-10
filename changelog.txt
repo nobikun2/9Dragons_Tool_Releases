@@ -1,3 +1,3 @@
-Sữa lỗi Item Editor khôgn đọc được các type khác.
+Sữa lỗi Item Editor không đọc được các type khác.
 
 Sữa lỗi Cash Package không hiển thị Icon.
