@@ -1,3 +1,6 @@
-Sữa lỗi Item Editor không đọc được các type khác.
-
-Sữa lỗi Cash Package không hiển thị Icon.
+Cập nhập giao diện mới 
+Sửa các lỗi tồn đọng 
+Thêm quest script editor 
+Thêm xpacker tools
+Kiểm tra config.rar và config đang sử dụng để cập nhập các key còn thiếu .
+Các vấn đề thắc mắc vui lòng liên hệ nhà phát hành . Zalo : 0338.283.188 
